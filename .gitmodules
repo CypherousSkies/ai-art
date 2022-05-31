@@ -1,0 +1,12 @@
+[submodule "CLIP-Guided-Diffusion"]
+	path = CLIP-Guided-Diffusion
+	url = https://github.com/nerdyrodent/CLIP-Guided-Diffusion.git
+[submodule "CLIP"]
+	path = CLIP
+	url = https://github.com/openai/CLIP
+[submodule "guided-diffusion"]
+	path = guided-diffusion
+	url = https://github.com/crowsonkb/guided-diffusion
+[submodule "Real-ESRGAN"]
+	path = Real-ESRGAN
+	url = https://github.com/xinntao/Real-ESRGAN.git
