@@ -3,6 +3,7 @@ This is a long-term project for me, but one I've been meaning to start since I s
 
 ## Checkpoints
 - [ ] VQGAN/Diffusion + CLIP (possibly allow for options?)
+  - [ ]  Try using [this](https://github.com/nerdyrodent/CLIP-Guided-Diffusion)
 - [ ] GANBreeder with PCA to improve control over results
 - [ ] Upscaler
 - [ ] User-interface server to run the whole thing
